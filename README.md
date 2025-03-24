@@ -38,5 +38,14 @@ Se intentó hacer un merge entre `develop` y `feature/modificar-index`, pero ocu
 Se usó el comando:
 ```sh
 git status
+EJERCICIO 5:
+## Eliminación de un Archivo
+
+### 1. Creación de la funcionalidad
+Se creó una nueva funcionalidad en Git Flow con el comando:
+```sh
+git flow feature start borrar-mi-archivo
+
+
 
 
