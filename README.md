@@ -28,3 +28,15 @@ Se creó una nueva funcionalidad con Git Flow:
 ```sh
 git flow feature start modificar-index
 
+EJERCICIO 4:
+## Resolución de Conflictos
+
+### 1. Detección del Conflicto
+Se intentó hacer un merge entre `develop` y `feature/modificar-index`, pero ocurrió un conflicto en `index.php`.
+
+### 2. Verificación del Conflicto
+Se usó el comando:
+```sh
+git status
+
+
